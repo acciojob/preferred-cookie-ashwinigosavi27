@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 let fontSizeInput=document.getElementById('fontsize');
 let fontColorInput=document.getElementById('fontcolor');
 
@@ -43,8 +42,4 @@ window.addEventListener('load',()=>{
    fontColorInput.value=cookieValue.fontColor;
    fontSizeInput.value=cookieValue.fontSize;
     }
-})
-
-
-
-
+});
